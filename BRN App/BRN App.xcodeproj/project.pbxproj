@@ -14,6 +14,7 @@
 		3F5A6FBE1FC038F7002D8B8D /* BRN_App.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3F5A6FBC1FC038F7002D8B8D /* BRN_App.xcdatamodeld */; };
 		3F5A6FC01FC038F7002D8B8D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F5A6FBF1FC038F7002D8B8D /* Assets.xcassets */; };
 		3F5A6FC31FC038F7002D8B8D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F5A6FC11FC038F7002D8B8D /* LaunchScreen.storyboard */; };
+		3F69FAAE1FC29DEF00C960D8 /* shiva.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 3F69FAAD1FC29DEF00C960D8 /* shiva.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		3F5A6FBF1FC038F7002D8B8D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F5A6FC21FC038F7002D8B8D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F5A6FC41FC038F7002D8B8D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F69FAAD1FC29DEF00C960D8 /* shiva.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shiva.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				3F5A6FB71FC038F7002D8B8D /* ViewController.m */,
 				3F5A6FB91FC038F7002D8B8D /* Main.storyboard */,
 				3F5A6FBF1FC038F7002D8B8D /* Assets.xcassets */,
+				3F69FAAD1FC29DEF00C960D8 /* shiva.JPG */,
 				3F5A6FC11FC038F7002D8B8D /* LaunchScreen.storyboard */,
 				3F5A6FC41FC038F7002D8B8D /* Info.plist */,
 				3F5A6FBC1FC038F7002D8B8D /* BRN_App.xcdatamodeld */,
@@ -144,6 +147,7 @@
 				3F5A6FC31FC038F7002D8B8D /* LaunchScreen.storyboard in Resources */,
 				3F5A6FC01FC038F7002D8B8D /* Assets.xcassets in Resources */,
 				3F5A6FBB1FC038F7002D8B8D /* Main.storyboard in Resources */,
+				3F69FAAE1FC29DEF00C960D8 /* shiva.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -318,6 +322,7 @@
 				3F5A6FC91FC038F7002D8B8D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
